@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SAMMAN VERMA</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f0f0f0; /* light gray background */
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      font-size: 3rem;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>SAMMAN VERMA</h1>
+</body>
+</html>
